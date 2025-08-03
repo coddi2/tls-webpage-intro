@@ -2,7 +2,7 @@
   "name": "tls-webpage",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://<your-username>.github.io/tls-webpage",
+  "homepage": "https://coddi2.github.io/tls-webpage-intro",
   "type": "module",
   "scripts": {
     "dev": "vite",
