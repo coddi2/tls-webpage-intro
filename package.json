@@ -2,7 +2,7 @@
   "name": "tls-webpage",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://<your-username>.github.io/<repo-name>",
+  "homepage": "https://<your-username>.github.io/tls-webpage",
   "type": "module",
   "scripts": {
     "dev": "vite",
